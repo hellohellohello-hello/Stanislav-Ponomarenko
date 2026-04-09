@@ -1,9 +1,3 @@
----
-
-## 1. Projectile Motion
-
-Given:
-
 $$
 v_0 = 100 \text{ m/s}, \quad \theta = 37^\circ
 $$
